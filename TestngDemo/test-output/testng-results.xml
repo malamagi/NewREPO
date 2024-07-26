@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-06-03T17:00:15 IST" name="Suite" finished-at="2024-06-03T17:01:32 IST" duration-ms="76406">
+    <groups>
+    </groups>
+    <test started-at="2024-06-03T17:00:15 IST" name="Test" finished-at="2024-06-03T17:01:32 IST" duration-ms="76406">
+      <class name="testngpackage.Tradeviv_Testng">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testngpackage.Tradeviv_Testng@2794eab6]" started-at="2024-06-03T17:00:15 IST" name="setup" finished-at="2024-06-03T17:00:37 IST" duration-ms="21971" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testLoginAndLogout()[pri:0, instance:testngpackage.Tradeviv_Testng@2794eab6]" started-at="2024-06-03T17:00:37 IST" name="testLoginAndLogout" finished-at="2024-06-03T17:01:30 IST" duration-ms="52387" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLoginAndLogout -->
+        <test-method is-config="true" signature="close()[pri:0, instance:testngpackage.Tradeviv_Testng@2794eab6]" started-at="2024-06-03T17:01:30 IST" name="close" finished-at="2024-06-03T17:01:32 IST" duration-ms="1960" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- testngpackage.Tradeviv_Testng -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
