@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="5.048" tests="1" skipped="0" failures="1" errors="0">
+<testcase classname="Flipkart Product Selection" name="User logs into Flipkart" time="0.036">
+<failure/>
+<system-out><![CDATA[
+Given User is on homepage of flipcart.......................................undefined
+When User clicks on login button............................................skipped
+And User get credentials from excel.........................................skipped
+And user enters OTP manually................................................skipped
+Then User is directly go with their account page............................skipped
+]]></system-out>
+</testcase>
+</testsuite>
